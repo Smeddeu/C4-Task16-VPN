@@ -1,0 +1,96 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            0a:67:e2:c0:b8:01:1c:4f:38:b4:ef:7c:1f:5b:12:35
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=BE, ST=West-Flanders, L=Kortrijk, O=Smeddeu Corporation, OU=IT, CN=smeddeu/emailAddress=desmet_t@hotmail.com
+        Validity
+            Not Before: Apr 22 15:29:59 2019 GMT
+            Not After : Apr 19 15:29:59 2029 GMT
+        Subject: C=BE, ST=West-Flanders, L=Kortrijk, O=Smeddeu Corporation, OU=IT, CN=smeddeuserver/emailAddress=desmet_t@hotmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:bd:c7:41:25:47:5c:33:da:f9:1a:7b:05:d3:cd:
+                    6c:31:23:57:7b:64:a0:1a:3d:42:49:be:54:57:5d:
+                    40:23:40:02:88:f3:42:b1:86:86:bb:59:3e:4e:23:
+                    71:09:7f:2c:88:1e:09:66:02:2e:c7:f1:9b:cf:dd:
+                    7a:c1:86:a3:70:d1:fb:78:be:fe:68:4e:95:19:ef:
+                    5f:df:86:52:0a:83:6a:8a:e4:cb:c9:d6:78:a2:6b:
+                    39:ca:32:db:63:61:b3:27:04:61:1f:67:25:75:e8:
+                    f2:65:d5:14:05:c8:42:b5:de:bd:c6:76:8e:f1:af:
+                    a2:8a:dd:f7:e5:03:ee:0f:76:94:31:bd:09:cd:d8:
+                    a4:79:f0:a2:a2:37:cb:d9:da:61:8c:ae:14:97:10:
+                    a8:79:8f:75:c6:e5:b1:25:f7:1e:26:d8:80:a9:a7:
+                    bb:56:39:c2:39:13:2c:87:02:e5:cd:a0:d5:5e:96:
+                    3d:7d:c0:44:c7:72:b4:90:9e:79:8e:7c:50:49:99:
+                    1b:de:b7:d6:b6:1a:4f:9f:66:01:07:5a:42:e3:03:
+                    69:d4:48:23:dd:45:d9:c8:18:b9:16:6f:70:f7:cd:
+                    60:ae:24:78:25:8d:c1:53:06:0d:cd:54:cb:b8:40:
+                    0f:d0:b3:bb:ec:b9:26:85:5d:01:db:73:6d:3b:72:
+                    ef:51
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                CD:DA:A6:AD:3F:FE:9D:B3:2A:2B:9F:BF:F5:D2:71:BB:8B:6F:F6:3F
+            X509v3 Authority Key Identifier: 
+                keyid:A7:11:FE:E5:6A:6E:AC:A3:89:1C:A0:FD:8F:9D:A3:CA:DA:2C:A1:B9
+                DirName:/C=BE/ST=West-Flanders/L=Kortrijk/O=Smeddeu Corporation/OU=IT/CN=smeddeu/emailAddress=desmet_t@hotmail.com
+                serial:0C:A2:EE:A2:FA:85:7A:BB:6C:B6:87:DB:36:08:10:C7:31:7D:2B:E4
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:smeddeuserver
+    Signature Algorithm: sha256WithRSAEncryption
+         7d:06:c8:24:59:0a:34:22:c2:b7:52:c5:b2:08:1d:ca:39:3d:
+         a7:27:9c:39:e7:d6:d1:fe:78:81:f0:2d:c1:22:fb:ff:30:2d:
+         9d:0c:94:21:89:53:5d:33:bc:e3:99:17:bd:6d:be:46:a4:72:
+         7a:46:5d:ae:b5:8f:6e:1b:82:4c:b1:c3:66:93:ba:6f:fd:05:
+         32:c2:ce:0a:6a:b5:04:1d:fe:fb:af:ed:b3:d1:7c:20:f8:a5:
+         54:f1:0c:ec:0c:f7:5c:95:2e:c4:aa:71:94:2a:6c:a9:32:a2:
+         bb:d7:db:6a:9f:b6:aa:df:a1:2d:e7:c0:9e:e3:6e:90:e7:ee:
+         3e:47:85:26:89:be:08:b4:e6:35:b9:97:0e:90:e7:f1:7d:c5:
+         be:0b:e1:eb:a5:28:46:87:63:f3:af:32:76:7b:13:93:65:2d:
+         d3:41:23:83:ab:00:d2:d7:76:d6:16:28:ef:5d:ca:74:1e:d8:
+         b6:5a:a4:fd:41:e0:24:c3:d3:2c:99:ba:6e:87:f5:ef:3e:b7:
+         0d:0a:41:2c:b6:e3:84:79:00:3f:77:7b:8e:b2:b9:b5:c7:f9:
+         b8:18:6b:98:1b:62:7b:f8:17:dd:42:b9:c4:76:0b:e0:73:8c:
+         f7:02:c9:d1:71:37:a9:6b:88:72:87:3d:1e:c7:8d:37:55:c8:
+         f1:7a:92:e0
+-----BEGIN CERTIFICATE-----
+MIIFDzCCA/egAwIBAgIQCmfiwLgBHE84tO98H1sSNTANBgkqhkiG9w0BAQsFADCB
+mjELMAkGA1UEBhMCQkUxFjAUBgNVBAgMDVdlc3QtRmxhbmRlcnMxETAPBgNVBAcM
+CEtvcnRyaWprMRwwGgYDVQQKDBNTbWVkZGV1IENvcnBvcmF0aW9uMQswCQYDVQQL
+DAJJVDEQMA4GA1UEAwwHc21lZGRldTEjMCEGCSqGSIb3DQEJARYUZGVzbWV0X3RA
+aG90bWFpbC5jb20wHhcNMTkwNDIyMTUyOTU5WhcNMjkwNDE5MTUyOTU5WjCBoDEL
+MAkGA1UEBhMCQkUxFjAUBgNVBAgMDVdlc3QtRmxhbmRlcnMxETAPBgNVBAcMCEtv
+cnRyaWprMRwwGgYDVQQKDBNTbWVkZGV1IENvcnBvcmF0aW9uMQswCQYDVQQLDAJJ
+VDEWMBQGA1UEAwwNc21lZGRldXNlcnZlcjEjMCEGCSqGSIb3DQEJARYUZGVzbWV0
+X3RAaG90bWFpbC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC9
+x0ElR1wz2vkaewXTzWwxI1d7ZKAaPUJJvlRXXUAjQAKI80Kxhoa7WT5OI3EJfyyI
+HglmAi7H8ZvP3XrBhqNw0ft4vv5oTpUZ71/fhlIKg2qK5MvJ1niiaznKMttjYbMn
+BGEfZyV16PJl1RQFyEK13r3Gdo7xr6KK3fflA+4PdpQxvQnN2KR58KKiN8vZ2mGM
+rhSXEKh5j3XG5bEl9x4m2ICpp7tWOcI5EyyHAuXNoNVelj19wETHcrSQnnmOfFBJ
+mRvet9a2Gk+fZgEHWkLjA2nUSCPdRdnIGLkWb3D3zWCuJHgljcFTBg3NVMu4QA/Q
+s7vsuSaFXQHbc207cu9RAgMBAAGjggFHMIIBQzAJBgNVHRMEAjAAMB0GA1UdDgQW
+BBTN2qatP/6dsyorn7/10nG7i2/2PzCB2gYDVR0jBIHSMIHPgBSnEf7lam6so4kc
+oP2PnaPK2iyhuaGBoKSBnTCBmjELMAkGA1UEBhMCQkUxFjAUBgNVBAgMDVdlc3Qt
+RmxhbmRlcnMxETAPBgNVBAcMCEtvcnRyaWprMRwwGgYDVQQKDBNTbWVkZGV1IENv
+cnBvcmF0aW9uMQswCQYDVQQLDAJJVDEQMA4GA1UEAwwHc21lZGRldTEjMCEGCSqG
+SIb3DQEJARYUZGVzbWV0X3RAaG90bWFpbC5jb22CFAyi7qL6hXq7bLaH2zYIEMcx
+fSvkMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAsGA1UdDwQEAwIFoDAYBgNVHREEETAP
+gg1zbWVkZGV1c2VydmVyMA0GCSqGSIb3DQEBCwUAA4IBAQB9BsgkWQo0IsK3UsWy
+CB3KOT2nJ5w559bR/niB8C3BIvv/MC2dDJQhiVNdM7zjmRe9bb5GpHJ6Rl2utY9u
+G4JMscNmk7pv/QUyws4KarUEHf77r+2z0Xwg+KVU8QzsDPdclS7EqnGUKmypMqK7
+19tqn7aq36Et58Ce426Q5+4+R4Umib4ItOY1uZcOkOfxfcW+C+HrpShGh2PzrzJ2
+exOTZS3TQSODqwDS13bWFijvXcp0Hti2WqT9QeAkw9Msmbpuh/XvPrcNCkEstuOE
+eQA/d3uOsrm1x/m4GGuYG2J7+BfdQrnEdgvgc4z3AsnRcTepa4hyhz0ex403Vcjx
+epLg
+-----END CERTIFICATE-----
